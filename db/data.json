@@ -1,0 +1,6 @@
+const users = [ 
+    {
+        name: 'asd',
+        lastName: 'dsa',
+    }
+];
